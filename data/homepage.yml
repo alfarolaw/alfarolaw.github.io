@@ -1,0 +1,260 @@
+# homepage
+head:
+  title: "Alfaro Law"
+
+# showcase
+showcase:
+  enable: true
+  description: >
+    Alfaro Law is a private law firm that services all areas of Sydney and
+    regional New South Wales.  At Alfaro Law, we are dedicated, professional
+    and friendly team, and pride ourselves on delivering exceptional legal
+    services and results to our diverse client base.</br></br>
+
+    We offer a multi-practice service and are able to assist our clients with
+    the majority of their legal issues. Clients benefit from our extensive
+    knowledge of the law, vast network of professional and legal advisers as
+    well as our unmatched client service experience.</br></br>
+
+    At Alfaro Law, we understand the complex nature of the law and legal
+    transactions and strive to simplify the process for our clients. Through
+    communication, knowledge and transparency we help our clients understand
+    where they want to be and how they can get there. Whether it is a
+    straightforward legal transaction or complex legal dispute, the law is
+    constantly changing and with clients ranging from individuals to
+    corporations we ensure that our legal solutions are up-to-date and tailored
+    to our clients’ individual needs.
+
+  image:
+    alt: "Showcase keyboard and mouse image"
+    x: "/images/showcase.png"
+    _2x: "/images/showcase@2x.png"
+  imageMobile:
+    alt: "Showcase keyboard and mouse image"
+    x: "/images/showcase-mobile.png"
+
+# Client & Work
+client_and_work:
+  title: "Areas of Practice"
+  enable: true
+
+  works:
+    - title: "Family Law"
+      description: >
+        - Property and financial settlements
+
+        - Parenting applications/agreements
+
+        - Consent orders
+
+        - Contravention orders
+
+        - Divorce 
+
+        - Family dispute resolutions
+
+        - Family mediation and conciliation conferences
+
+        - Prenuptial agreements
+
+        - Binding financial agreements
+
+        - Spousal maintenance
+
+        - Child support
+
+        - De Facto relationship disputes
+
+        - Domestic violence 
+
+      image:
+        x: "images/image-02.png"
+        _2x: "images/image-02@2x.png"
+      is_even: true
+
+    - title: "Property & Commercial Law & Conveyancing"
+      description: >
+        - Property sales and purchasing (Preparation of contracts for sale of property; Review of contracts before purchasing property; Auction Enquires)
+
+        - Due diligence
+
+        - Stamp duty 
+
+        - Strata and title structuring 
+
+        - Easements and covenants
+
+        - Transfer of property 
+
+        - Leases – Commercial, Industrial, Retail & Rural
+
+        - Property sub-division
+
+        - Off the plan advise 
+
+        - Property developments
+
+        - Options Deeds (both “Put & Call” and “Call”)
+
+        - Assistance with identifying suitable opportunities for finance
+
+        - Assistance for first home buyers and the First Home Owners Grant
+
+        - Mortgages, refinancing & property deposit bonds
+
+        - Buying and selling businesses
+
+        - Franchising
+
+        - Business advisory services
+
+        - Corporate acquisitions
+
+        - Incorporating existing businesses
+
+        - Confidentiality agreements
+
+        - Share sale agreements
+
+        - Retirement village contracts
+
+      image:
+        x: "images/image-03.png"
+        _2x: "images/image-03@2x.png"
+      is_even: false
+
+    - title: "Environment & Planning Law"
+      description: >
+        - Advising on planning controls
+
+        - Environmental impact assessments
+
+        - Neighbour disputes
+
+        - Compulsory acquisitions
+
+        - Liquor licensing
+
+        - Planning and development approvals and appeals
+
+      image:
+        x: "images/image-04.png"
+        _2x: "images/image-04@2x.png"
+      is_even: true
+
+    - title: "Estate Planning, Administration, Litigation and Elder Law"
+      description: >
+        - Estate Planning – Wills, Powers of Attorney, Enduring Guardianship and Advance Care Directive
+
+        - Estate Administration – Probate, Letters of Administration, Special Grants and Administration of Estate
+
+        - Estate Litigation - Contested Grants of Probate, Disputed Wills, Family Provision Claims, Statutory Wills, Negligent Executors/ Administrators and Disputes with Executors/Administrators
+
+        - Elder Law - Guardianship, Financial Management, Statutory Wills Elder Financial Abuse, accommodation and Reviews of Decisions
+
+        - Superannuation and Death Benefits Payouts 
+
+      image:
+        x: "images/image-05.png"
+        _2x: "images/image-05@2x.png"
+      is_even: false
+
+    - title: "Litigation & Disputes"
+      description: >
+        - Buying and selling businesses
+
+        - Franchising
+
+        - Business advisory services
+
+        - Corporate acquisitions
+
+        - Incorporating existing businesses
+
+        - Confidentiality agreements
+
+        - Share sale agreements
+
+      image:
+        x: "images/image-06.png"
+        _2x: "images/image-06@2x.png"
+      is_even: true
+
+    - title: "Criminal Law"
+      description: >
+        - Traffic offences
+
+        - AVOs and Domestic violence offences
+
+        - Summary offences
+
+        - Indictable offences
+
+        - Bail applications
+
+        - Appeals
+
+      image:
+        x: "images/image-07.png"
+        _2x: "images/image-07@2x.png"
+      is_even: false
+
+    - title: "Employment Law & Industrial Relations"
+      description: >
+        - Employment contract drafting and negotiations
+
+        - Independent contractor agreements
+
+        - Wage disputes
+
+        - Restraint of trade enforcements
+
+      image:
+        x: "images/image-08.png"
+        _2x: "images/image-08@2x.png"
+      is_even: true
+
+    - title: "Personal Injury/Compensation  Law"
+      description: >
+        - Road Accidents
+
+        - Work Accidents 
+
+        - Public Accidents
+
+        - Superannuation Claims
+
+        - Product liability
+
+      image:
+        x: "images/image-09.png"
+        _2x: "images/image-09@2x.png"
+      is_even: false
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  phone:
+    title: "Phone Number"
+    number: "02 8798 7687"
+  email:
+    title: "Email"
+    email: '<a href="mailto:office@alfarolaw.com.au">office@alfarolaw.com.au</a>'
+  officeAddress:
+    title: "Office Address"
+    address: "Suite 1, 37 Cobham Avenue Melrose Park NSW 2114"
+  postalAddress:
+    title: "Postal Address"
+    address: "PO Box 1182 Double Bay NSW 2028"
+  text: >
+    Please contact us at your convenience to discuss your legal needs. 
+
+
+    Please make all enquires by phone or email to our office. 
+
+
+    **Office hours are:** Monday to Friday 8.30am to 6.30pm & Saturday from 9.30am to 12.30pm.
+
+
+    **In person:** All office conferences are by appointment only.

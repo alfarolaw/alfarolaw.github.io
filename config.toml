@@ -1,0 +1,64 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "raditian-theme"
+title = "Alfaro Law"
+description = "Alfaro Law is a private law firm that services all areas of Sydney and regional New South Wales."
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+
+# navigation
+[menu]
+
+  [[menu.header]]
+  name = "Areas of Practice"
+  URL = "#portfolio"
+  weight = 3
+
+  [[menu.header]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
+
+  [[menu.footer]]
+  name = "Areas of Practice"
+  URL = "#portfolio"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
+
+
+[params]
+
+  title = "Alfaro Law"
+  sections = ["showcase", "client-and-work", "contact"]
+
+  # googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+
+  [params.logo]
+    text1 = "Alfaro"
+    text2 = "Law"
+    img = "/images/alfaro-law-logo.png"
+
+  [params.footer]
+      copyright = "© Alfaro Law. All rights reserved."
